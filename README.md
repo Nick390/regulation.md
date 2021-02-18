@@ -29,6 +29,9 @@ You must put an asterisk`*`before each item and a point at the end of each item 
 ##### Examples
 * `**Add text coloring property.`
 * `**Fix Page not specified error.`
+* <img src="https://image.prntscr.com/image/jA0DM-S2QxOTINoARfvORw.png" width="250">
+* <img src="https://image.prntscr.com/image/nCrX4rPKSqaCiJn-DmsRYg.png" width="250">
+* <img src="https://image.prntscr.com/image/6ZpR9SFjQ6Wtvw25VbQR9g.png" width="250">
 
 #### additional information
 * Any modification less than 30 characters is preferable not to be (push origin).
