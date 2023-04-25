@@ -17,6 +17,7 @@ for a process push to github and the commit that have been written.
 * **Fix** When a bug of code is fixed or a property is fixed.
 * **Change** When file location change to another location.
 * **Rreplace** When file replaced by other file and does same work.
+* **Comment Used when placing a line as a comment.
 ---
 #### How is the title chosen?
 An address is chosen on the largest thing that has been done,for example writing a file consisting of 1000 lines of 
@@ -33,7 +34,7 @@ You must put an asterisk`*`before each item and a point at the end of each item 
 * <img src="https://image.prntscr.com/image/nCrX4rPKSqaCiJn-DmsRYg.png" width="250">
 * <img src="https://image.prntscr.com/image/6ZpR9SFjQ6Wtvw25VbQR9g.png" width="250">
 
-#### additional information
+#### Additional information
 * Any modification less than 30 characters is preferable not to be (push origin).
 * Try all the time to format the code as possible.
 * Put a lot of notes in files especially long files or require modification before applying that kind of file or all of them.
@@ -46,3 +47,15 @@ Using uppercase and lowercase letters was useful in the past, but now because th
 * No specific method of naming has been specified, but now there is a law so that all column names must be in lowercase letters only.
 * The underscore symbol `_` is used to distinguish between words.
 * A comments must be created to describe what each column does.
+
+#### Examples
+##### New commit 
+* Update index.html
+  * **Add new H1.
+  * **Remove old h2.
+  * **Fix javascript path to file.
+
+##### Nameing folders, files, database tables
+* all_templates.
+* home_page.html.
+* email_verification.
