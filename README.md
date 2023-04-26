@@ -48,6 +48,11 @@ Using uppercase and lowercase letters was useful in the past, but now because th
 * The underscore symbol `_` is used to distinguish between words.
 * A comments must be created to describe what each column does.
 
+#### Timestamp
+To be consistent with all the regulation, need to avoid `/` are replaced with `_` in time you can add `:`.
+
+---
+
 #### Examples
 ##### New commit 
 * Update index.html
@@ -59,3 +64,6 @@ Using uppercase and lowercase letters was useful in the past, but now because th
 * all_templates.
 * home_page.html.
 * email_verification.
+
+##### Timestamp
+* `2023_04_27 12:53:58 AM`.
