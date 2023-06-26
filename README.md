@@ -17,7 +17,8 @@ for a process push to github and the commit that have been written.
 * **Fix** When a bug of code is fixed or a property is fixed.
 * **Change** When file location change to another location.
 * **Rreplace** When file replaced by other file and does same work.
-* **Comment Used when placing a line as a comment.
+* **Comment** Used when placing a line as a comment.
+* **Improve** Used whene a better version has been provided that does the same task as the previous one, but with less time, or improvement in the user interface, or a better arrangement of the code.
 ---
 #### How is the title chosen?
 An address is chosen on the largest thing that has been done,for example writing a file consisting of 1000 lines of 
