@@ -1,12 +1,18 @@
-This system was created to organize the flow of files and folders and the way to name them, and its goal is to facilitate knowledge of the history of each file and folder where every amendment is bound by law
-for a process push to github and the commit that have been written.
+This system was created to organize the flow of files and folders and the way to name them.
 ---
+### The name of the following write method is: Nick390 regulation method or NR method.
+It's goal is to facilitate knowledge of the history of each file and folder where every amendment is bound by law
+for a process push to github and the commit that have been written. This system also regulates the way of writing and naming things, which works on almost all systems, and makes reading and writing easy.
+Having an organized way of writing texts makes the writing prediction process easier and consistent.
+
 #### Definitions
+
 ##### For Folders
 * **Create** Used when new folder has created.
 * **Rename** Used when a previously existing folder is renamed.
 * **Delete** When a folder is deleted.
 * **Change** When folder location change to another location.
+
 ##### For Files
 * **Create** Used when something new that wasn't there before is created.
 * **Update** Used when an existing file is modified.
@@ -19,6 +25,7 @@ for a process push to github and the commit that have been written.
 * **Rreplace** When file replaced by other file and does same work.
 * **Comment** Used when placing a line as a comment.
 * **Improve** Used whene a better version has been provided that does the same task as the previous one, but with less time, or improvement in the user interface, or a better arrangement of the code.
+
 ---
 #### How is the title chosen?
 An address is chosen on the largest thing that has been done,for example writing a file consisting of 1000 lines of 
@@ -68,3 +75,8 @@ To be consistent with all the regulation, need to avoid `/` are replaced with `_
 
 ##### Timestamp
 * `2023_04_27 12:53:58 AM`.
+
+##### functions and more
+* function update_user_password().
+* let user_id = id.
+* https://website_name.com/update_user_name.
